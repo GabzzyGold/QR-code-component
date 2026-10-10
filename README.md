@@ -7,6 +7,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 - [Frontend Mentor - QR Code Component](#frontend-mentor---qr-code-component)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
+  - [Links](#links)
   - [Screenshots](#screenshots)
     - [HTML (`index.html`)](#html-indexhtml)
     - [CSS (`style.css`)](#css-stylecss)
@@ -32,6 +33,11 @@ The component is a single white card, centered on a light blue-grey page. Inside
 3. A short paragraph telling visitors to scan the code to visit Frontend Mentor
 
 The goal of the project was to practice the basics of HTML and CSS: semantic markup, Flexbox centering, working with a design style guide, and making a layout hold up on small screens.
+
+## Links
+
+- Live site: [https://gabzzygold.github.io/QR-code-component/](https://gabzzygold.github.io/QR-code-component/)
+- Repository: [https://github.com/GabzzyGold/QR-code-component](https://github.com/GabzzyGold/QR-code-component)
 
 ## Screenshots
 
@@ -102,7 +108,7 @@ You do not need to install anything to run this project.
 1. Download or clone the repository:
 
    ```
-   git clone https://github.com/GabzzyGold/qr-code-component.git
+   git clone https://github.com/GabzzyGold/QR-code-component.git
    ```
 
 2. Open the project folder.
